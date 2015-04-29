@@ -5,7 +5,9 @@ Course materials for [General Assembly's Data Science course](https://generalass
 **Instructor:** [Yuchen Zhao](https://generalassemb.ly/instructors/yuchen-zhao/5102)
 
 **Experts-in-Residence:** 
+
 Alex Chao (Office Hours: 2-6 pm Sundays)
+
 David Feldman (Office Hours: 4-6:30 pm Tuesdays,Thursdays)
 
 ### Course Schedule (Tentative)
