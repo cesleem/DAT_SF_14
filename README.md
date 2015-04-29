@@ -6,7 +6,7 @@ Course materials for [General Assembly's Data Science course](https://generalass
 
 **Experts-in-Residence:** 
 
-Alex Chao (Office Hours: 2-6 pm Sundays)
+[Alex Chao](https://www.linkedin.com/pub/alex-chao/42/600/8b4) (Office Hours: 2-6 pm Sundays)
 
 David Feldman (Office Hours: 4-6:30 pm Tuesdays,Thursdays)
 
