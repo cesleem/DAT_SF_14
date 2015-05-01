@@ -32,3 +32,11 @@ Week | Tuesday | Thursday
  9 | 6/23: Final Project Work Session & Peer Feedback <br>**Project Milestone:** [Peer Feedback Due]  | 6/25: Map-Reduce & Hadoop
 10 | 6/30: Distributed Data Processing (Spark)  | 7/02: Network Analysis
 11 | 7/07: Project Presentations Day 1 <br>**Project Milestone:** Presentation   | 7/09: Project Presentations Day 2 <br>**Project Milestone:** Presentation & Paper
+
+
+### Homework Schedule
+
+HW | Topics | Dataset | Assigned | Due
+--- | --- | --- | --- | ---
+1 | Data Exploration | titanic | 5/05 | 5/12
+2 | :)
