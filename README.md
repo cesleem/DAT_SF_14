@@ -38,5 +38,5 @@ Week | Tuesday | Thursday
 
 HW | Topics | Dataset | Assigned | Due
 --- | --- | --- | --- | ---
-1 | Data Exploration | titanic | 5/05 | 5/12
+1 | [Data Exploration](https://github.com/ga-students/DAT_SF_14/tree/master/homework/hw1) | [titanic](https://github.com/ga-students/DAT_SF_14/blob/master/homework/hw1/titanic.csv) | 5/05 | <font color='red'>**5/12**</font>
 2 | :)
