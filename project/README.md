@@ -66,6 +66,18 @@ The Final Project Elevator Pitch includes both a short (one paragraph) write-up 
 * What type of machine learning problem this is (from our 2x2 matrix)
 * Why you chose this project
 
+### June 2: Data Ready
+
+By June 2, you should have your data set available for mining and modeling. The steps may include:
+
+* data retrieval
+* data cleaning
+* data transformation and filtering
+* feature scaling
+* missing data handling
+* noise removal
+* feature engineering
+* ...
 
 ### June 16: First Draft Due Before Class
 

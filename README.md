@@ -26,7 +26,7 @@ Week | Tuesday | Thursday
  3 | 5/12: Naive Bayes Classification  | 5/14: Regression and Regularization
  4 | 5/19: Logistic Regression  | 5/21: K-Means Clustering <br>**Project Milestone:** [Elevator Pitch](project#may-21-final-project-elevator-pitch)
  5 | 5/26: Decision Trees and Random Forests (1)  | 5/28: Decision Trees and Random Forests (2)
- 6 | 6/02: Ensemble Techniques  | 6/04: Support Vector Machines
+ 6 | 6/02: Ensemble Techniques <br>**Project Milestone:** [Data Ready](project#june-2-data-ready) | 6/04: Support Vector Machines
  7 | 6/09: Dimensionality Reduction  | 6/11: ROC Curves, AUC, & Imbalanced Classes
  8 | 6/16: Recommendation Systems <br>**Project Milestone:** [First Draft Due](project#june-16-first-draft-due-before-class)  | 6/18: Database Technologies
  9 | 6/23: Final Project Work Session & Peer Feedback <br>**Project Milestone:** [Peer Feedback Due](project/peer_review_guidelines.md)  | 6/25: Map-Reduce & Hadoop
