@@ -22,7 +22,7 @@ Course materials for [General Assembly's Data Science course](https://generalass
 Week | Tuesday | Thursday
 --- | --- | ---
  1 | 4/28: [Introduction to Data Exploration](https://github.com/ga-students/DAT_SF_14/blob/master/slides/lec01.pdf) | 4/30: [Introduction to Machine Learning](https://github.com/ga-students/DAT_SF_14/blob/master/slides/lec02.pdf) 
- 2 | 5/05: [Data Format, Access & Transformation](https://github.com/ga-students/DAT_SF_14/blob/master/slides/lec03.pdf) | 5/07: K-Nearest Neighbors Classification
+ 2 | 5/05: [Data Format, Access & Transformation](https://github.com/ga-students/DAT_SF_14/blob/master/slides/lec03.pdf) | 5/07: [K-Nearest Neighbors Classification](https://github.com/ga-students/DAT_SF_14/blob/master/slides/lec04.pdf)
  3 | 5/12: Naive Bayes Classification  | 5/14: Regression and Regularization
  4 | 5/19: Logistic Regression  | 5/21: K-Means Clustering <br>**Project Milestone:** [Elevator Pitch]
  5 | 5/26: Decision Trees and Random Forests (1)  | 5/28: Decision Trees and Random Forests (2)
