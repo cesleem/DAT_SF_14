@@ -1,4 +1,4 @@
-# HOMEWORK 2 ASSIGNMENT**Assigned:** Tuesday, May 12, 2015 
+# HOMEWORK 2 ASSIGNMENT**Assigned:** Tuesday, May 07, 2015 
 **Deadline:** Tuesday, May 19, 2015 by 11:59PM
 **Submission Link:** [https://docs.google.com/forms/d/1zrOqAEsNjdYY7-rFVk1qWb0T_49OFXloe1cLfLdS6-I/viewform](https://docs.google.com/forms/d/1zrOqAEsNjdYY7-rFVk1qWb0T_49OFXloe1cLfLdS6-I/viewform)
 
