@@ -41,3 +41,18 @@ HW | Topics | Dataset | Assigned | Due
 1 | [Data Exploration](homework/hw1) | [titanic](hw1/titanic.csv) | 5/05 | **5/12**
 2 | [KNN & Cross Validation](homework/hw2) | [iris](http://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html) | 5/07 | **5/19**
 PM1 | [Elevator Pitch](project#may-21-final-project-elevator-pitch) | project | 5/07 | **5/21**
+
+
+### Resources
+
+#### Working in the terminal
+- [Data Science at the Command Line](http://shop.oreilly.com/product/0636920032823.do)
+- [Learning Bash Scripting For Beginners](http://www.cyberciti.biz/open-source/learning-bash-scripting-for-beginners/)
+- [Advanced Bash Scripting Guide](http://www.tldp.org/LDP/abs/html/)
+
+#### Statistical Learning Theory
+- [Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
+
+#### Algorithms
+- [Top 10 Data Mining Algorithms in Plain English](http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)
+
