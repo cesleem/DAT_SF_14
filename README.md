@@ -24,7 +24,7 @@ Week | Tuesday | Thursday
  1 | 4/28: [Introduction to Data Exploration](slides/lec01.pdf) | 4/30: [Introduction to Machine Learning](slides/lec02.pdf) 
  2 | 5/05: [Data Format, Access & Transformation](slides/lec03.pdf) | 5/07: [K-Nearest Neighbors Classification](slides/lec04.pdf) <br>**Final Project Kickoff**
  3 | 5/12: [Naive Bayes Classification](slides/lec05.pdf) <br>**HW1 Due** | 5/14: [Regression and Regularization](slides/lec06.pdf)
- 4 | 5/19: [Logistic Regression](slides/lec07.pdf) <br>**HW2 Due** | 5/21: K-Means Clustering <br>**Project Milestone (PM1):** [Elevator Pitch](project#may-21-final-project-elevator-pitch)
+ 4 | 5/19: [Logistic Regression](slides/lec07.pdf) <br>**HW2 Due** | 5/21: [K-Means Clustering](slides/lec08.pdf) <br>**Project Milestone (PM1):** [Elevator Pitch](project#may-21-final-project-elevator-pitch)
  5 | 5/26: Decision Trees and Random Forests (1)  | 5/28: Decision Trees and Random Forests (2)
  6 | 6/02: Ensemble Techniques <br>**Project Milestone (PM2):** [Data Ready](project#june-2-data-ready) | 6/04: Support Vector Machines
  7 | 6/09: Dimensionality Reduction  | 6/11: ROC Curves, AUC, & Imbalanced Classes
