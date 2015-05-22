@@ -56,3 +56,6 @@ PM1 | [Elevator Pitch](project#may-21-final-project-elevator-pitch) | project | 
 #### Algorithms
 - [Top 10 Data Mining Algorithms in Plain English](http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)
 
+#### Python
+- [Data Science from Scratch](http://shop.oreilly.com/product/0636920033400.do)
+
