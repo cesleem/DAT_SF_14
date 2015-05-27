@@ -25,7 +25,7 @@ Week | Tuesday | Thursday
  2 | 5/05: [Data Format, Access & Transformation](slides/lec03.pdf) | 5/07: [K-Nearest Neighbors Classification](slides/lec04.pdf) <br>**Final Project Kickoff**
  3 | 5/12: [Naive Bayes Classification](slides/lec05.pdf) <br>**HW1 Due** | 5/14: [Regression and Regularization](slides/lec06.pdf)
  4 | 5/19: [Logistic Regression](slides/lec07.pdf) <br>**HW2 Due** | 5/21: [K-Means Clustering](slides/lec08.pdf) <br>**Project Milestone (PM1):** [Elevator Pitch](project#may-21-final-project-elevator-pitch)
- 5 | 5/26: Decision Trees and Random Forests (1)  | 5/28: Decision Trees and Random Forests (2)
+ 5 | 5/26: [Clustering & Decision Trees](slides/lec09.pdf)  | 5/28: Tree-based Classifiers 
  6 | 6/02: Ensemble Techniques <br>**Project Milestone (PM2):** [Data Ready](project#june-2-data-ready) | 6/04: Support Vector Machines
  7 | 6/09: Dimensionality Reduction  | 6/11: ROC Curves, AUC, & Imbalanced Classes
  8 | 6/16: Recommendation Systems <br>**Project Milestone (PM3):** [First Draft Due](project#june-16-first-draft-due-before-class)  | 6/18: Database Technologies
@@ -55,4 +55,7 @@ PM1 | [Elevator Pitch](project#may-21-final-project-elevator-pitch) | project | 
 
 #### Algorithms
 - [Top 10 Data Mining Algorithms in Plain English](http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)
+
+#### Python
+- [Data Science from Scratch](http://shop.oreilly.com/product/0636920033400.do)
 
