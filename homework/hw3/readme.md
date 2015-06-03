@@ -1,5 +1,5 @@
 # HOMEWORK 3 ASSIGNMENT**Assigned:** Tuesday, June 02, 2015 
-**Deadline:** Thursday, June 09, 2015 by 11:59PM
+**Deadline:** Tuesday, June 09, 2015 by 11:59PM
 **Submission Link:** [https://docs.google.com/forms/d/1zrOqAEsNjdYY7-rFVk1qWb0T_49OFXloe1cLfLdS6-I/viewform](https://docs.google.com/forms/d/1zrOqAEsNjdYY7-rFVk1qWb0T_49OFXloe1cLfLdS6-I/viewform)
 
 ---The purpose of this homework is to gain hands-on experience with decision trees.
