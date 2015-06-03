@@ -26,8 +26,8 @@ Week | Tuesday | Thursday
  3 | 5/12: [Naive Bayes Classification](slides/lec05.pdf) <br>**HW1 Due** | 5/14: [Regression and Regularization](slides/lec06.pdf)
  4 | 5/19: [Logistic Regression](slides/lec07.pdf) <br>**HW2 Due** | 5/21: [K-Means Clustering](slides/lec08.pdf) <br>**Project Milestone (PM1):** [Elevator Pitch](project#may-21-final-project-elevator-pitch)
  5 | 5/26: [Clustering & Decision Trees](slides/lec09.pdf)  | 5/28: [Tree-based Classifiers](slides/lec10.pdf) 
- 6 | 6/02: Ensemble Techniques <br>**Project Milestone (PM2):** [Data Ready](project#june-2-data-ready) | 6/04: Support Vector Machines
- 7 | 6/09: Dimensionality Reduction  | 6/11: ROC Curves, AUC, & Imbalanced Classes
+ 6 | 6/02: [Ensemble Techniques](slides/lec11.pdf) <br>**Project Milestone (PM2):** [Data Ready](project#june-2-data-ready) | 6/04: Support Vector Machines
+ 7 | 6/09: Dimensionality Reduction <br>**HW3 Due**  | 6/11: ROC Curves, AUC, & Imbalanced Classes
  8 | 6/16: Recommendation Systems <br>**Project Milestone (PM3):** [First Draft Due](project#june-16-first-draft-due-before-class)  | 6/18: Database Technologies
  9 | 6/23: Final Project Work Session & Peer Feedback <br>**Project Milestone (PM4):** [Peer Feedback Due](project/peer_review_guidelines.md)  | 6/25: Map-Reduce & Hadoop
 10 | 6/30: Distributed Data Processing (Spark)  | 7/02: Network Analysis
@@ -40,7 +40,10 @@ HW | Topics | Dataset | Assigned | Due
 --- | --- | --- | --- | ---
 1 | [Data Exploration](homework/hw1) | [titanic](hw1/titanic.csv) | 5/05 | **5/12**
 2 | [KNN & Cross Validation](homework/hw2) | [iris](http://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html) | 5/07 | **5/19**
-PM1 | [Elevator Pitch](project#may-21-final-project-elevator-pitch) | project | 5/07 | **5/21**
+PM1 | [Elevator Pitch](project#may-21-final-project-elevator-pitch) | project | - | **5/21**
+PM2 | [Data Ready](project#june-2-data-ready) | project | - | **6/02**
+3 | [Decision Trees](homework/hw3) | [bank](homework/hw3) | 6/02 | **6/09**
+
 
 
 ### Resources
