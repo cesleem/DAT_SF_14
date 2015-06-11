@@ -43,6 +43,7 @@ HW | Topics | Dataset | Assigned | Due
 PM1 | [Elevator Pitch](project#may-21-final-project-elevator-pitch) | project | - | **5/21**
 PM2 | [Data Ready](project#june-2-data-ready) | project | - | **6/02**
 3 | [Decision Trees](homework/hw3) | [bank](homework/hw3) | 6/02 | **6/09**
+PM3 | [First Draft Due](project#june-16-first-draft-due-before-class) | project | - | **6/16 _(Before Class)_**
 
 
 
