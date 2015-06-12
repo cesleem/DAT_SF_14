@@ -91,6 +91,8 @@ In this milestone, you will need to post **at least 3 plots** created based on y
 
 ### June 16: First Draft Due Before Class
 
+**Submission Link:** [https://docs.google.com/forms/d/1zrOqAEsNjdYY7-rFVk1qWb0T_49OFXloe1cLfLdS6-I/viewform](https://docs.google.com/forms/d/1zrOqAEsNjdYY7-rFVk1qWb0T_49OFXloe1cLfLdS6-I/viewform)
+
 Your peers and instructors will provide feedback by June 23, according to [these guidelines](peer_review_guidelines.md).
 
 At a minimum, you should include:
