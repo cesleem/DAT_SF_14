@@ -1,5 +1,7 @@
 ## Peer Review Guidelines
 
+**Update: \[[Peer Review Assignment](https://docs.google.com/spreadsheets/d/1E1DtubQdH8s45G2JHHA6Aht9mn9JQEmXNnwYxhor0Qk/edit#gid=0)\]**
+
 You will be assigned to review the project drafts of two of your peers. You will have one week to provide them with feedback.
 
 Expectations:
