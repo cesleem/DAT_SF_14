@@ -28,7 +28,7 @@ Week | Tuesday | Thursday
  5 | 5/26: [Clustering & Decision Trees](slides/lec09.pdf)  | 5/28: [Tree-based Classifiers](slides/lec10.pdf) 
  6 | 6/02: [Ensemble Techniques](slides/lec11.pdf) <br>**Project Milestone (PM2):** [Data Ready](project#june-2-data-ready) | 6/04: [Support Vector Machines](slides/lec12.pdf)
  7 | 6/09: [Dimensionality Reduction](slides/lec13.pdf) <br>**HW3 Due**  | 6/11: [Imbalanced Classes and Evaluation Metrics](slides/lec14.pdf)
- 8 | 6/16: [Recommendation Systems](slides/lec15.pdf) <br>**Project Milestone (PM3):** [First Draft Due](project#june-16-first-draft-due-before-class)  | 6/18: Database Technologies
+ 8 | 6/16: [Recommendation Systems](slides/lec15.pdf) <br>**Project Milestone (PM3):** [First Draft Due](project#june-16-first-draft-due-before-class)  | 6/18: [Natural Language Processing](slides/lec16.pdf)
  9 | 6/23: Final Project Work Session & Peer Feedback <br>**Project Milestone (PM4):** [Peer Feedback Due](project/peer_review_guidelines.md)  | 6/25: Map-Reduce & Hadoop
 10 | 6/30: Distributed Data Processing (Spark)  | 7/02: Network Analysis
 11 | 7/07: Project Presentations Day 1 <br>**Project Milestone (PM5):** Presentation   | 7/09: Project Presentations Day 2 <br>**Project Milestone (PM5):** Presentation & Paper
