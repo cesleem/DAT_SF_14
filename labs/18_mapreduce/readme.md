@@ -44,27 +44,27 @@ cd DAT_SF_14/labs/18_mapreduce/
 Let's run MapReduce on a small sample by using `head`:
 
 ```
-head 4300.txt.utf-8.txt | python mapper.py | sort -k1,1 | python reducer.py
+head 4300.txt.utf-8.txt | python mapper.py | sort | python reducer.py
 ```
 
 Looks cool? Let's run using the complete file:
 
 ```
-cat 4300.txt.utf-8.txt | python mapper.py | sort -k1,1 | python reducer.py
+cat 4300.txt.utf-8.txt | python mapper.py | sort | python reducer.py
 ```
 
 Alternatively, you can save the output to a file (e.g., `output.txt`):
 
 
 ```
-cat 4300.txt.utf-8.txt | python mapper.py | sort -k1,1 | python reducer.py > output.txt
+cat 4300.txt.utf-8.txt | python mapper.py | sort | python reducer.py > output.txt
 ```
 
 Change the filename to your faviroiate text file and check the results.
 
 ### In-class Discussions:
-* How to implement groupby then sum using MapReduce?
-* How to implement groupby then average using MapReduce?
+* How to implement groupby-then-sum using MapReduce?
+* How to implement groupby-then-average using MapReduce?
 
 ### More exercises (optional):
 * Retreive data via twitter API. Can you run MapReduce word count to get the most popular hashtags?
