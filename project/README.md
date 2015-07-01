@@ -114,3 +114,5 @@ Tips for success:
 ### July 7 and 9: Presentation
 
 Deliver your project presentation in class and submit all required deliverables (paper, slides, code, data, and data dictionary).
+
+**Presentation Schedule:** [link](https://docs.google.com/spreadsheets/d/1rT2lTDt8gcbMY3tB_3iY95E9rm_mWh_O05go-HPjGhA/edit#gid=0)
