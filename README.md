@@ -34,6 +34,10 @@ Week | Tuesday | Thursday
 11 | 7/07: Project Presentations Day 1 <br>**Project Milestone (PM5):** Presentation   | 7/09: Project Presentations Day 2 <br>**Project Milestone (PM5):** Presentation & Paper
 
 
+
+**IMPORTANT: Presentation Schedule:** [link](https://docs.google.com/spreadsheets/d/1rT2lTDt8gcbMY3tB_3iY95E9rm_mWh_O05go-HPjGhA/edit#gid=0)
+
+
 ### Homework Schedule
 
 HW | Topics | Dataset | Assigned | Due
