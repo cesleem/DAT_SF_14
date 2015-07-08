@@ -6,13 +6,16 @@ var colorscale = d3.scale.category10();
 //Legend titles
 var LegendOptions = ['Vulnerable Segment', 'So-So Segment'];
 
-
+var d;
+d3.json('../radar_data.json', function(json) {
+var d = json;
+});
 
 //Data
-// var data = [
+// var d = [
 //           [
-//             {axis:"Email",value:2.7979419525065965},
-//             {axis:"Social Networks",value:2.7979419525065965},
+//             {axis:"Email",value:0.59},
+//             {axis:"Social Networks",value:0.56},
 //             {axis:"Internet Banking",value:0.42},
 //             {axis:"News Sportsites",value:0.34},
 //             {axis:"Search Engine",value:0.48}
@@ -25,23 +28,18 @@ var LegendOptions = ['Vulnerable Segment', 'So-So Segment'];
 //           ]
 //         ];
 
-var d;
-d3.json('radar_data.json', function(json) {
-  var d = json;
-  console.log(d)
+//Options for the Radar chart, other than default
+var mycfg = {
+  w: w,
+  h: h,
+  maxValue: 0.6,
+  levels: 6,
+  ExtraWidthX: 300
+}
 
-  //Options for the Radar chart, other than default
-  var mycfg = {
-    w: w,
-    h: h,
-    maxValue: 0.6,
-    levels: 6,
-    ExtraWidthX: 300
-  }
-  //Call function to draw the Radar chart
-  //Will expect that data is in %'s
-  RadarChart.draw("#chart", d, mycfg);
-});
+//Call function to draw the Radar chart
+//Will expect that data is in %'s
+RadarChart.draw("#chart", d, mycfg);
 
 ////////////////////////////////////////////
 /////////// Initiate legend ////////////////
