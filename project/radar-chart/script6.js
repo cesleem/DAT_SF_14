@@ -6,6 +6,8 @@ var colorscale = d3.scale.category10();
 //Legend titles
 var LegendOptions = ['Vulnerable Segment', 'So-So Segment'];
 
+
+
 //Data
 // var data = [
 //           [
