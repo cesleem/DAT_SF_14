@@ -266,22 +266,28 @@ $(document).ready(function(){
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <ul>
-<li><p>[1] Today, on my way to GA...</p>
-</li>
-<li><p>[2] WALKED AWAY FROM ENCOUNTER WITH TWO THOUGHTS: 1) Didn't address the root problem. 2) Take a step back. Where's the compassion?</p>
-</li>
-<li><p>[3] PARALLEL BROKEN HEALTHCARE.  Why are we treating diseases instead of people who are sick? Addressing not just the medical conditions that present themselves on the surface (with pharmaceutical drugs and quick fixes), but the complex root causes.</p>
-</li>
-<li><p>[4] Perhaps most fundamentaly, when we just address the surface, and don't take the time and care to address complex concerns, how is that compassionate care?</p>
-</li>
-<li><p>[5] Doctors/nurses often operate without knowledge of the full complexity of these patients needs and what goes on outside the four walls of their doctor's office.</p>
-</li>
-<li><p>And you might wonder what's the impetus for change?  Well with the recent healthcare legislation our country is moving towards a value-based payment model.</p>
-</li>
-<li><p>If patient's don't get better, you don't get paid.  So it behooves you to have access to the full picture and not just what happens in the four walls of your doctors office.</p>
-</li>
-<li><p>For me this is a test, an experiment that's part of the bigger problem of leveraging the same technology that's propelling people like Uber to be a trillion dollar company, to see if data science can create new products and services to better serve these people, or for that matter all people.</p>
-</li>
+<li>[1] One of the ways healthcare is fundamentally broken is lack of tools to help care providers get a "360 view" of their patients complex socioeconomic, psychosocial, and cultural circumstances in order to provide them patient-centered, quality, timely, and relevant care.</li>
+</ul>
+<ul>
+<li>[2] Why this is bad: 1) Providers often can't address the root problem. 2) Take a step back. Where's the compassion when you see disease and not a complex human being?  </li>
+</ul>
+<ul>
+<li>[3] Why are we treating diseases instead of people who are sick? Addressing not just the medical conditions that present themselves on the surface (with pharmaceutical drugs and quick fixes), but the complex root causes.  </li>
+</ul>
+<ul>
+<li>[4] Perhaps most fundamentally, when we just address the surface, and don't take the time and care to address complex concerns, how is that compassionate care?  </li>
+</ul>
+<ul>
+<li>[5] Doctors/nurses often operate without knowledge of the full complexity of these patients needs and what goes on outside the four walls of their doctor's office.  </li>
+</ul>
+<ul>
+<li>And you might wonder what's the impetus for change?  Well with the recent healthcare legislation our country is moving towards a value-based payment model.  </li>
+</ul>
+<ul>
+<li>If patient's don't get better, you don't get paid.  So it behooves you to have access to the full picture and not just what happens in the four walls of your doctors office. </li>
+</ul>
+<ul>
+<li>For me this is a test, an experiment that's part of the bigger problem of leveraging the same technology that's propelling people like Uber to be a trillion dollar company, to see if data science can create new products and services to better serve these people, or for that matter all people. </li>
 </ul>
 
 </div>
@@ -379,7 +385,7 @@ $(document).ready(function(){
 <ul>
 <li>Goal here is to gain deeper insight into a population.  </li>
 <li>Identify important characteristics that might give us clues about behaviors, preferences, and context for their particular needs.</li>
-<li>Along the way we're going to learn interesting things about factors associated poor good healths tatus, pain, mental health and physical health.</li>
+<li>Along the way we're going to learn interesting things about factors associated poor good health status, pain, mental health and physical health.</li>
 </ul>
 
 </div>
@@ -466,7 +472,7 @@ $(document).ready(function(){
 <div class="text_cell_render border-box-sizing rendered_html">
 <h5 id="As-you-recall-this-is-how-it-works:">As you recall this is how it works:<a class="anchor-link" href="#As-you-recall-this-is-how-it-works:">&#182;</a></h5><ol>
 <li>Choose k-initial centroids</li>
-<li>For each point: (a) distance to centroid, (b) assign point to nearest centroid</li>
+<li>For each point: (a) calculate distance to centroid, (b) assign point to nearest centroid</li>
 <li>Recalculate centroid positions</li>
 <li>Repeat steps 2-3 until stopping criteria are met.</li>
 </ol>
@@ -503,7 +509,7 @@ $$
 <span class="c"># warnings.filterwarnings(&#39;ignore&#39;)</span>
 <span class="kn">import</span> <span class="nn">os.path</span>
 
-<span class="o">%</span><span class="k">matplotlib</span> inlineys
+<span class="o">%</span><span class="k">matplotlib</span> inline
 
 <span class="kn">import</span> <span class="nn">matplotlib.pyplot</span> <span class="kn">as</span> <span class="nn">plt</span>
 <span class="kn">import</span> <span class="nn">pandas</span> <span class="kn">as</span> <span class="nn">pd</span>
@@ -9103,22 +9109,18 @@ CIOZiIjIRRjMRERELsJgJiIichEGMxERkYv8AXhu02d3DM6OAAAAAElFTkSuQmCC
 <h3 id="Wellness-Gaps">Wellness Gaps<a class="anchor-link" href="#Wellness-Gaps">&#182;</a></h3>
 </div>
 </div>
-</div><div class="fragment" data-fragment-index="84">
-    
+</div><div class="fragment" data-fragment-index="77">
+        
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input_hidden">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[2]:</div>
+<div class="prompt input_prompt">In&nbsp;[4]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython2"><pre><span class="o">%%</span><span class="k">html</span>
-&lt;!-- inspired by http://nbremer.blogspot.nl/2013/09/making-d3-radar-chart-look-bit-better.html --&gt;
-&lt;head&gt;
-    &lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html;charset=utf-8&quot;/&gt;
-    &lt;title&gt;Radar chart&lt;/title&gt;
-    &lt;script src=&quot;http://d3js.org/d3.v3.min.js&quot;&gt;&lt;/script&gt;
-    &lt;script src=&quot;radar-chart/RadarChart.js&quot;&gt;&lt;/script&gt;
-    &lt;style&gt;
+&lt;script src=&quot;http://d3js.org/d3.v3.min.js&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;radar-chart/RadarChart.js&quot;&gt;&lt;/script&gt;
+&lt;style&gt;
         body {
             overflow: hidden;
             margin: 0;
@@ -9128,14 +9130,12 @@ CIOZiIjIRRjMRERELsJgJiIichEGMxERkYv8AXhu02d3DM6OAAAAAElFTkSuQmCC
         #chart {
             position: floating;
         }
-    &lt;/style&gt;
-&lt;/head&gt;
-&lt;body&gt;
-    &lt;div id=&quot;body&quot;&gt;
+&lt;/style&gt;
+
+&lt;div id=&quot;body&quot;&gt;
         &lt;div id=&quot;chart&quot;&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;script src=&quot;radar-chart/script.js&quot;&gt;&lt;/script&gt;
-&lt;/body&gt;
+&lt;/div&gt;
+&lt;script src=&quot;radar-chart/script.js&quot;&gt;&lt;/script&gt;
 </pre></div>
 
 </div>
@@ -9151,13 +9151,9 @@ CIOZiIjIRRjMRERELsJgJiIichEGMxERkYv8AXhu02d3DM6OAAAAAElFTkSuQmCC
 <div class="output_area"><div class="prompt"></div>
 
 <div class="output_html rendered_html output_subarea ">
-<!-- inspired by http://nbremer.blogspot.nl/2013/09/making-d3-radar-chart-look-bit-better.html -->
-<head>
-    <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
-    <title>Radar chart</title>
-    <script src="http://d3js.org/d3.v3.min.js"></script>
-    <script src="radar-chart/RadarChart.js"></script>
-    <style>
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script src="radar-chart/RadarChart.js"></script>
+<style>
         body {
             overflow: hidden;
             margin: 0;
@@ -9167,14 +9163,12 @@ CIOZiIjIRRjMRERELsJgJiIichEGMxERkYv8AXhu02d3DM6OAAAAAElFTkSuQmCC
         #chart {
             position: floating;
         }
-    </style>
-</head>
-<body>
-    <div id="body">
+</style>
+
+<div id="body">
         <div id="chart"></div>
-    </div>
-    <script src="radar-chart/script.js"></script>
-</body>
+</div>
+<script src="radar-chart/script.js"></script>
 </div>
 
 </div>
@@ -9183,14 +9177,26 @@ CIOZiIjIRRjMRERELsJgJiIichEGMxERkYv8AXhu02d3DM6OAAAAAElFTkSuQmCC
 </div>
 
 </div>
-    </div><aside class="notes">
+        </div><div class="fragment" data-fragment-index="77">
+        
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p><img src=radar-chart/radar-chart-still.png></p>
+
+</div>
+</div>
+</div>
+        </div><aside class="notes">
     
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Why is there a disconnect here between mental health and depression indicators?  I would investigate this further but will table that, less we get distracted.  Likely related to survey instrument, reporting behaviors.</p>
+<p>Why is there a disconnect here between mental health and depression indicators?  I would investigate this further but will table that, lest we get distracted.  Likely related to survey instrument, reporting behaviors.</p>
 
 </div>
 </div>
@@ -9414,7 +9420,7 @@ Baseline Model: 0.411
 </div>
 </div>
 </div>
-    </aside><div class="fragment" data-fragment-index="90">
+    </aside><div class="fragment" data-fragment-index="91">
     
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input_hidden">
@@ -10324,7 +10330,7 @@ KQY+AAAAAAhSDHwAAAAAEKQY+AAAAAAgSP0XJrhrQDdDMW0AAAAASUVORK5CYII=
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Our model seems to better represent the underlying structure or "True Groups".  Our model, however, explains less variance.</p>
+<p>Our model seems to better represent the underlying structure or "True Groups".  Our model, however, also minimizes the variance between the two segments more than the other standards.  What this ultimately suggests is that if you have limited resources and are looking to focus your capacity on two patient segments, clustering is going to get you maximum the similarity within groups and minimize similarity between them.  My hypothesis is, targeting these populations differently with the additional context provided here will lead to improved quality of care.</p>
 
 </div>
 </div>
@@ -10341,7 +10347,7 @@ KQY+AAAAAAhSDHwAAAAAEKQY+AAAAAAgSP0XJrhrQDdDMW0AAAAASUVORK5CYII=
 <h2 id="Wrap-Up">Wrap-Up<a class="anchor-link" href="#Wrap-Up">&#182;</a></h2>
 </div>
 </div>
-</div><div class="fragment" data-fragment-index="97">
+</div><div class="fragment" data-fragment-index="98">
     
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
